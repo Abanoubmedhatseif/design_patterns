@@ -1,9 +1,9 @@
-package Observer.Home;
+package Behavioural.Home;
 
-import Observer.Home.classes.Abanoub;
-import Observer.Home.classes.DoorBell;
-import Observer.Home.classes.Mariam;
-import Observer.Home.classes.Michael;
+import Behavioural.Home.classes.Abanoub;
+import Behavioural.Home.classes.DoorBell;
+import Behavioural.Home.classes.Mariam;
+import Behavioural.Home.classes.David;
 
 public class Home {
     public static void main(String[] args) {
@@ -14,7 +14,7 @@ public class Home {
 
         Mariam mariam = new Mariam(doorBell);
 
-        Michael michael = new Michael();
+        David david = new David();
 
         doorBell.ring();
 

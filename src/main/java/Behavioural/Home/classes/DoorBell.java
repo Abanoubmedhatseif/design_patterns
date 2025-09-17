@@ -1,7 +1,7 @@
-package Observer.Home.classes;
+package Behavioural.Home.classes;
 
-import Observer.Home.interfaces.Observer;
-import Observer.Home.interfaces.Subject;
+import Behavioural.Home.interfaces.Observer;
+import Behavioural.Home.interfaces.Subject;
 
 import java.util.ArrayList;
 import java.util.List;
