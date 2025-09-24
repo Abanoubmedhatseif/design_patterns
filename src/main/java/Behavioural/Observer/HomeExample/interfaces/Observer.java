@@ -1,4 +1,4 @@
-package Behavioural.Home.interfaces;
+package Behavioural.Observer.HomeExample.interfaces;
 
 public interface Observer {
     public void update();

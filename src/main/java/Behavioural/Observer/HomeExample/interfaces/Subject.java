@@ -1,4 +1,4 @@
-package Behavioural.Home.interfaces;
+package Behavioural.Observer.HomeExample.interfaces;
 
 public interface Subject {
     public void registerObserver(Observer o);

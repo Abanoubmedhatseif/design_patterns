@@ -1,7 +1,7 @@
-package Behavioural.Home.classes;
+package Behavioural.Observer.HomeExample.classes;
 
-import Behavioural.Home.interfaces.Observer;
-import Behavioural.Home.interfaces.Subject;
+import Behavioural.Observer.HomeExample.interfaces.Observer;
+import Behavioural.Observer.HomeExample.interfaces.Subject;
 
 public class Mariam implements Observer {
 

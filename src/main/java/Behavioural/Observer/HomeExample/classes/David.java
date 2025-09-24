@@ -1,4 +1,4 @@
-package Behavioural.Home.classes;
+package Behavioural.Observer.HomeExample.classes;
 
 
 public class David  {

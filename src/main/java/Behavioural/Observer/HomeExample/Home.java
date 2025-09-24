@@ -1,9 +1,9 @@
-package Behavioural.Home;
+package Behavioural.Observer.HomeExample;
 
-import Behavioural.Home.classes.Abanoub;
-import Behavioural.Home.classes.DoorBell;
-import Behavioural.Home.classes.Mariam;
-import Behavioural.Home.classes.David;
+import Behavioural.Observer.HomeExample.classes.Abanoub;
+import Behavioural.Observer.HomeExample.classes.DoorBell;
+import Behavioural.Observer.HomeExample.classes.Mariam;
+import Behavioural.Observer.HomeExample.classes.David;
 
 public class Home {
     public static void main(String[] args) {
